@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "demo",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus23.actions.githubusercontent.com/zY0EQsxve8yuViIbETigPhNomdEGE82gHgYPQpzUVI0dksVSDN/",
+  "gitHubUrl": "https://github.com/KARTIKBHARDWAJ627/Github_action_24-11",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
